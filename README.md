@@ -8,7 +8,7 @@ Before starting to read this, I would like you first to download these two video
 
 [Prediction](https://github.com/adnaneaabbar/object-detection-for-autonomous-driving/blob/master/assets/videos/pred_video.mp4)
 
-The dataset is a made out of 120 images taken by a camera on the hood of a moving car to simulate what autonomous driving will look like.
+The dataset is made out of 120 images taken by a camera on the hood of a moving car to simulate what autonomous driving will look like.
 
 it is provided by : 
 ![](https://github.com/adnaneaabbar/object-detection-for-autonomous-driving/blob/master/assets/images/driveai.png?raw=true)
