@@ -1,4 +1,4 @@
-# Object Detection Fro Autonomous Driving using YOLO algorithm
+# Object Detection For Autonomous Driving using YOLO algorithm
 
 -----------------
 
